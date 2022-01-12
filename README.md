@@ -1,0 +1,2 @@
+# global.js
+twilio sid
